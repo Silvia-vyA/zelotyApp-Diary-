@@ -53,5 +53,3 @@ Zeloty Diary App adalah aplikasi diary digital yang:
 </table>
 
 ---
-
-## 📂✨
