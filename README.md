@@ -1,80 +1,59 @@
-# 📱 MyProfileApp — PAM3
-
-## Student Profile Application
-**Course:** Pengembangan Aplikasi Web  
-**Class:** RB  
-
-Project ini merupakan tugas **PAM3 (Pertemuan 3)** pada mata kuliah **Pengembangan Aplikasi Web** yang bertujuan membuat aplikasi profil sederhana menggunakan **Compose Multiplatform**.
-
-Aplikasi ini menampilkan informasi profil mahasiswa dalam tampilan **UI card yang rapi dan estetik**, serta menerapkan konsep **Composable Functions yang reusable**.
+# 💌✨ Zeloty Diary App ✨💌
+### 📱 Tugas PAM – Pengembangan Aplikasi Mobile 💖
 
 ---
 
-## 👤 Student Information
-
-| Data | Keterangan |
-|-----|------------|
-| Nama | Silvia |
-| NIM | 123140133 |
-| Kelas | RB |
-| Mata Kuliah | Pengembangan Aplikasi Web |
+## 👩‍🎓💖 Identitas Mahasiswa 💖👩‍🎓
+- 🌸 **Nama** : Silvia  
+- 🎓 **NIM** : 123140133  
+- 🏫 **Kelas** : RB  
+- 📚 **Mata Kuliah** : Pengembangan Aplikasi Mobile  
 
 ---
 
-## 📌 Deskripsi Aplikasi
-
-Aplikasi ini menampilkan halaman profil mahasiswa yang berisi:
-
-- Foto profil
-- Nama dan NIM
-- Deskripsi singkat
-- Informasi kontak (Email, Phone, Location)
-- Hobi dalam bentuk chip card
-- Tombol **Contact Me**
-
-Aplikasi dibuat menggunakan **Jetpack Compose / Compose Multiplatform** sehingga setiap komponen UI dibuat dalam bentuk **Composable Function yang reusable**.
+## 🌸✨ Tentang Aplikasi Ini ✨🌸
+Zeloty Diary App adalah aplikasi diary digital yang:
+💌 bisa nyimpen cerita harian  
+💭 bisa ngelihat kembali kenangan  
+📱 simple dan sederhana  
 
 ---
 
-## 🧩 Reusable Composable Components
-
-Beberapa komponen composable yang digunakan:
-
-- **ProfileHeader**  
-  Menampilkan foto profil, nama, dan NIM.
-
-- **InfoItem**  
-  Menampilkan informasi kontak seperti email, phone, dan location.
-
-- **ProfileCard**  
-  Komponen utama yang membungkus seluruh informasi profil.
-
-- **HobbySection**  
-  Menampilkan daftar hobi pengguna.
-
-- **HobbyChip**  
-  Komponen kecil untuk menampilkan satu hobi dengan ikon.
+## 🛠️💻 Teknologi yang Dipakai 💻🛠️
+- 🟣 Kotlin  
+- 🎨 Jetpack Compose  
+- 🗄️ SQLDelight (Local Database)  
+- 🔀 Navigation Compose  
 
 ---
 
-## 🖼️ Tampilan Aplikasi
-
-Berikut adalah hasil tampilan aplikasi:
-
-![PAM3 Screenshot](./composeApp/pam3.jpeg)
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-- Kotlin
-- Compose Multiplatform
-- Material 3
-- Android Studio
+## 🎯💖 Fitur Lucu Aplikasi 💖🎯
+✨ fitur-fitur gemoy:
+- ➕ nambah diary 💌  
+- 📋 lihat semua catatan 🥺  
+- 🔄 sorting newest / oldest 🔁  
+- 💾 simpan otomatis ke database  
 
 ---
 
+## 📸💗 Tampilan Aplikasi 💗📸
+
+### 🌸 Preview Lucu 🌸
+<table>
+  <tr>
+    <td><img src="composeApp/w1.jpeg" width="200"/></td>
+    <td><img src="composeApp/w2.jpeg" width="200"/></td>
+    <td><img src="composeApp/w3.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="composeApp/w4.jpeg" width="200"/></td>
+    <td><img src="composeApp/w5.jpeg" width="200"/></td>
+    <td><img src="composeApp/w6.jpeg" width="200"/></td>
+  </tr>
+</table>
 
 
 
-⭐ Project ini dibuat sebagai bagian dari tugas **Pengembangan Aplikasi Web (PAM3)**.
+---
+
+## 📂✨ Struktur Project ✨📂
